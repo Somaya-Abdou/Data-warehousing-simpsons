@@ -30,6 +30,7 @@ after the crawlers are done running tables are created
 ![Star_Schema_Diagram](https://github.com/Somaya-Abdou/ETL-Data-warehousing-simpsons/assets/87602679/6b95ff4f-c3e0-4f69-9ec0-675ab090f022)
 
 
+![s3_bucket](https://github.com/Somaya-Abdou/ETL-Data-warehousing-simpsons/assets/87602679/5be4341c-7f98-489a-943b-63f5486f7a32)
 
 
 
