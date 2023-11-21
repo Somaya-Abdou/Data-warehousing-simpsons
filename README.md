@@ -7,7 +7,7 @@ AWS S3 bucket to be used in Bi tools later.
 ![AWS_diagram](https://github.com/Somaya-Abdou/ETL-Data-warehousing-simpsons/assets/87602679/2b94e7f6-e218-4d05-b5b4-c64677891e61)
 
 # Steps
-1- Postgres RDS is created in AWS and simpsons tables are created and uploaded using attached codes rds.py, rds_sql.py 
+1- Redshift and Postgres RDS is created in AWS and simpsons tables are created and uploaded in RDS using attached codes rds.py, rds_sql.py 
 ![rds_db_diagram](https://github.com/Somaya-Abdou/ETL-Data-warehousing-simpsons/assets/87602679/672146f0-523c-4345-a51f-6f7081dcec53)
 
 
